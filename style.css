@@ -1,11 +1,17 @@
-
 body {
-    font-family: Arial, sans-serif;
-    font-size: 20px;
-    color: #f5f6f7;
     background-image: url(https://melhoresdoramas.com.br/wp-content/webp-express/webp-images/uploads/2024/06/Peoes-do-Amor-2-1.jpg.webp);
+    background-repeat: no-repeat; /* Impede que a imagem de fundo se repita */
+    background-size: cover; /* Faz a imagem cobrir todo o elemento, cortando se necessário para manter a proporção */
+    background-attachment: fixed; /* Opcional: faz a imagem de fundo permanecer fixa enquanto a página rola */
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
 }
-
 section {
   text-align: center;
 }
