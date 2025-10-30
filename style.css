@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://melhoresdoramas.com.br/wp-content/webp-express/webp-images/uploads/2024/06/Peoes-do-Amor-2-1.jpg.webp);
+    backbackground: url('https://raw.githubusercontent.com/sbr-rodrigues/Profile/refs/heads/main/Wallpaper%20-%20Sabrina%20Rodrigues.gif') no-repeat center center fixed
     background-repeat: no-repeat; /* Impede que a imagem de fundo se repita */
     background-size: cover; /* Faz a imagem cobrir todo o elemento, cortando se necessário para manter a proporção */
     background-attachment: fixed; /* Opcional: faz a imagem de fundo permanecer fixa enquanto a página rola */
@@ -57,3 +57,4 @@ hr {
 a {
   color: #7d3b5e;
 }
+
