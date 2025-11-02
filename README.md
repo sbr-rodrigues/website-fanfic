@@ -20,11 +20,10 @@ Este é um site estático criado com HTML e CSS, hospedado no GitHub Pages. Ele 
 
 Você pode acessar o site diretamente pelo GitHub Pages:
 
-👉 [https://seuusuario.github.io/CDoramas](https://seuusuario.github.io/CDoramas)
+👉 [(https://sbr-rodrigues.github.io/website-fanfic/)]
 
 
 ## 💖 Créditos
 
 Este projeto foi criado com muito carinho por **Sabrina**, inspirada pelo universo dos doramas e pela magia do amor verdadeiro.
 
----
