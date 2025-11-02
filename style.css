@@ -46,12 +46,13 @@ legend {
   font-size: 12px;
   text-align: center;
 }
-h1,h2, p {
+h1,h2, p, legend {
   margin: 1em auto;
   text-align: center;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
 } 
 .menu {
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255, 0.3);
   padding: 30px;
   border-radius: 10px;
 }
@@ -60,11 +61,6 @@ hr {
   background-color: #4b4178;
   border-color: rgb(46, 40, 168);
 }
-
 a {
   color: #7d3b5e;
 }
-
-
-
-
