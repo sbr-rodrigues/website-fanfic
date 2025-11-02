@@ -1,8 +1,4 @@
 body {
-    backbackground: url('https://raw.githubusercontent.com/sbr-rodrigues/Profile/refs/heads/main/Wallpaper%20-%20Sabrina%20Rodrigues.gif') no-repeat center center fixed
-    background-repeat: no-repeat; /* Impede que a imagem de fundo se repita */
-    background-size: cover; /* Faz a imagem cobrir todo o elemento, cortando se necessário para manter a proporção */
-    background-attachment: fixed; /* Opcional: faz a imagem de fundo permanecer fixa enquanto a página rola */
     font-family: 'Segoe UI', sans-serif;
     display: flex;
     justify-content: center;
@@ -14,6 +10,15 @@ body {
 }
 section {
   text-align: center;
+}
+#media {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+  object-fit: cover;
 }
 
 h1 {
@@ -57,4 +62,5 @@ hr {
 a {
   color: #7d3b5e;
 }
+
 
