@@ -49,6 +49,7 @@ h1, h2, p, legend {
   margin: 1em auto;
   text-align: center;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  background-color: #FFD700;
 } 
 .menu {
   background-color: rgba(255, 255, 255, 0.3);
@@ -57,9 +58,10 @@ h1, h2, p, legend {
 }
 hr {
   height: 2px;
-  background-color: #4b4178;
+  background-color: #FFD700;
   border-color: rgb(46, 40, 168);
 }
 a {
-  color: #7d3b5e;
+  color: #40E0D0;
 }
+
